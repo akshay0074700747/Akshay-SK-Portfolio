@@ -19079,9 +19079,9 @@ a.read:hover span.fas {
 
 /*-- banner --*/
 .w3l-banner {
-  background-image: url('assets/images/banner1webp.webp') no-repeat center;
+  /* background-image: url('assets/images/banner1webp.webp') no-repeat center;
   -ms-background-size: cover;
-  background-size: cover;
+  background-size: cover; */
   z-index: 0;
   position: relative;
   display: grid;
