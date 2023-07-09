@@ -4,8 +4,7 @@
 Author: W3layouts
 Author URL: http://w3layouts.com
 --*/
-
-h3
+.w3l-banner
 /*!
  * Bootstrap v5.0.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
@@ -19080,7 +19079,7 @@ a.read:hover span.fas {
 
 /*-- banner --*/
 .w3l-banner {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background-image: url('assets/images/banner1webp.webp') no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -21642,7 +21641,7 @@ footer {
 
 /*-- About Page Styling --*/
 .breadcrumb-bg-about {
-  background: url(../images/banner1.jpg) no-repeat 0px 0px;
+  background: url(../images/) no-repeat 0px 0px;
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -21826,7 +21825,7 @@ p.inner-page-para {
 
 
 .w3l-join {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -23568,7 +23567,7 @@ span.title {
 
 /* error page */
 .w3l-error-main .error {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
